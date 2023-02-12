@@ -13,11 +13,14 @@
    <p>  - Opção de escolha de impressora a partir de uma lista das impressoras disponíveis no sistema </p>
    <p>  - Opção de salvar para impressão em um momento futuro (muito usado para adiantar a produção da PT um dia antes) </p>
    
- <h4>(02/2023) 1.1.0 - Novas Features:</h4>
+<h4>(02/2023) 1.1.0 - Novas Features:</h4>
    <p>  - Um botão <b>Template</b> para salvar as informações que preencheu, basta adicionar um nome </p>
    <p>  - Um botão <b>Abrir</b> para escolher dentre os <b>templates</b> qual você quer recuperar  </p>
    <p>  - Um botão de versionamento no final para os trazer AQUI, para que assim possam acompanhar as atualizações </p>
    <p>  - Um botão na <b>LOGO</b> que os trarão até meu perfil no <b>GITHUB</b> para conhecer melhor meu portifólio </p>
+   
+<h4>(02/2023) 1.1.1 - Minor Fix:</h4>
+   <p>  - A impressão passou 1 cópia para 3 cópias atendendo a demanda das folhas de diferentes cores </p>
  
  
 
