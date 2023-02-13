@@ -21,6 +21,10 @@
    
 <h4>(02/2023) 1.1.1 - Minor Fix:</h4>
    <p>  - A impressão passou 1 cópia para 3 cópias atendendo a demanda das folhas de diferentes cores </p>
+   
+<h4>(02/2023) 1.1.2 - Minor Fix:</h4>
+   <p>  - retirado o botão <b>TEMPLATE</b>, sua função foi alterada para o botão <b>SALVAR</b> </p>
+   <p>  - alterada a função o botão <b>SALVAR</b>, pois percebi que não há a real necessidade de salvar o arquivo </p>
  
  
 
