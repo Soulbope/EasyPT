@@ -25,6 +25,9 @@
 <h4>(02/2023) 1.1.2 - Minor Fix:</h4>
    <p>  - retirado o botão <b>TEMPLATE</b>, sua função foi alterada para o botão <b>SALVAR</b> </p>
    <p>  - alterada a função o botão <b>SALVAR</b>, pois percebi que não há a real necessidade de salvar o arquivo </p>
+   
+<h4>(02/2023) 1.2.2 - Novas Features:</h4>
+   <p>  - agora imprimindo também <b>CHECKLIST</b> e <b>TBT</b> </p>
  
  
 
