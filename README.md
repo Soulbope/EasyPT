@@ -33,6 +33,7 @@
    <p>  - inserido botão <b>Perigos</b> para preenchimento mais completo da <b>TBT</b> </p>
    <p>  - inserido input <b>EPI's específicos</b> </p>
    <p>  - inserido input <b>Localização de sensores de incêndio</b> </p>
+   <p>  - Agora o nome das pessoas já aparecem automáticamente ao iniciar a digitar </p>
  
 <h4>(02/2023) 1.3.3 - Minor Fix:</h4>
    <p>  - espaço para <b>checklist</b> aumentado para caber mais do que um </p>
