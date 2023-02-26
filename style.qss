@@ -159,6 +159,12 @@ QPushButton#btnConfig, #btnEscape
     width: 30px;
 }
 
+QPushButton#btnVersion
+{
+    background-color: transparent;
+    border: none;
+}
+
 
 QComboBox:on
 {
@@ -539,6 +545,10 @@ QSlider::handle:vertical {
     height: 14px;
     margin: 0 -4px;
     border-radius: 2px;
+}
+
+QWidget#secCentralwidget {
+    border: 2px solid QLinearGradient( x1: 0, y1: 0, x2: 0, y2: 1, stop: 0 #ffa02f, stop: 1 #d7801a);
 }
 
 QAbstractSpinBox {
