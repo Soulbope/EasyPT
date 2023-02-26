@@ -28,7 +28,15 @@
    
 <h4>(02/2023) 1.2.2 - Novas Features:</h4>
    <p>  - agora imprimindo também <b>CHECKLIST</b> e <b>TBT</b> </p>
+   
+<h4>(02/2023) 1.3.2 - Novas Features:</h4>
+   <p>  - inserido botão <b>Perigos</b> para preenchimento mais completo da <b>TBT</b> </p>
+   <p>  - inserido input <b>EPI's específicos</b> </p>
+   <p>  - inserido input <b>Localização de sensores de incêndio</b> </p>
  
+<h4>(02/2023) 1.3.3 - Minor Fix:</h4>
+   <p>  - espaço para <b>checklist</b> aumentado para caber mais do que um </p>
+   <p>  - inserido novo layout da <b>TBT</b> para atender a solicitação de HSE </p>
  
 
    
