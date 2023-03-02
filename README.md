@@ -39,6 +39,13 @@
    <p>  - espaço para <b>checklist</b> aumentado para caber mais do que um </p>
    <p>  - inserido novo layout da <b>TBT</b> para atender a solicitação de HSE </p>
  
+<h4>(02/2023) 1.4.3 - Novas Features:</h4>
+   <p>  - adicionado botão de  <b>configuração</b> aonde a princípio serão colocados os caminhos para as pastas de JRA e DRAKE </p>
+   <p>  - agora imprimindo também <b>CHECKLIST 025 (trabalho a quente)</b></p>
+   <p>  - agora imprimindo também, caso o caminho seja específicado, as <b>JRAs</b> correspondentes</p>
+   <p>  - espeço aumentado para o imput sensores de incêndio na PT</p>
+   <p>  - corrigido erro de não marcação para check elétrico</p>
+   <p>  - informações contidas nas configurações serão trazidas automáticamente ao "abrir" seu template</p>
 
    
 
