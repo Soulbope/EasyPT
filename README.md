@@ -1,6 +1,5 @@
 <h1 align='center'> EasyPT </h1>
 <h2>Um software para automatização de formato e impressão de Permissões de trabalho utilizando a linguagem Python.</h2>
-<h3>A python software made for automatically generate, format (for save purpose) and print a work permission file</h3>
 
 <div align="center">
   <img height="280" width="200" alt="Easy PT"  src="https://user-images.githubusercontent.com/102233091/218273200-46db9bfb-916f-4011-aadd-23bb9018d800.PNG">
