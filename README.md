@@ -45,7 +45,21 @@
    <p>  - espeço aumentado para o imput sensores de incêndio na PT</p>
    <p>  - corrigido erro de não marcação para check elétrico</p>
    <p>  - informações contidas nas configurações serão trazidas automáticamente ao "abrir" seu template</p>
-
+   
+<h4>(04/2023) 1.5.3 - Novas Features:</h4>
+   <p> - Adicionar código do cadeado de isolamento elétrico ao lado do checkbox (PT)
+   <p> - Adicionar checkbox de isolamento elétrico acima da inspeção 
+   <p> - Adicionar opções no combobox (todos + Trab. em Altura)
+   <p> - Adicionar Tipo e localização do extintor (TBT)
+   <p> - Resolver BUG da pasta temp ficando (um if pra conferir, se houver a pasta, apaga antes de começar a criar a nova)
+   <p> - Deixar salva a pasta de JRA do save 1 como padrão (para já vir preenchida quando abrir)
+   <p> - No popup de salvar, dar a opção de atualizar um já existente ou criar um novo SAVE
+   <p> - Quando abrir o programa já vir preenchido com o último padrão salvo
+   <p> - Quando abrir um Save, não trazer as informações de data/horas
+   <p> - Criar um template em branco
+   <p> - Adicionar checklist de trabalho em altura
+   <p> - Adicionar inputEmbarcacao tanto no programa quanto no Design (necessário para o TBT)
+   <p> - dar um jeito de quando alguém tentar abrir um save já existente depois de uma atualização, ignorar os que não tem
    
 
 
