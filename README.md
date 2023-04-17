@@ -46,7 +46,7 @@
    <p>  - corrigido erro de não marcação para check elétrico</p>
    <p>  - informações contidas nas configurações serão trazidas automáticamente ao "abrir" seu template</p>
    
-<h4>(04/2023) 1.5.3 - Novas Features:</h4>
+<h4>(04/2023) 1.5.3 - Novas Features (Testing):</h4>
    <p> - Adicionar código do cadeado de isolamento elétrico ao lado do checkbox (PT)
    <p> - Adicionar checkbox de isolamento elétrico acima da inspeção 
    <p> - Adicionar opções no combobox (todos + Trab. em Altura)
