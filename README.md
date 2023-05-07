@@ -46,7 +46,7 @@
    <p>  - corrigido erro de não marcação para check elétrico</p>
    <p>  - informações contidas nas configurações serão trazidas automáticamente ao "abrir" seu template</p>
    
-<h4>(04/2023) 1.5.3 - Novas Features (Fase de testes):</h4>
+<h4>(04/2023) 1.5.3 - Novas Features:</h4>
    <p> - Adicionar código do cadeado de isolamento elétrico ao lado do checkbox (PT)
    <p> - Adicionar checkbox de isolamento elétrico acima da inspeção 
    <p> - Adicionar opções no combobox (todos + Trab. em Altura)
@@ -61,6 +61,9 @@
    <p> - Adicionar inputEmbarcacao tanto no programa quanto no Design (necessário para o TBT)
    <p> - dar um jeito de quando alguém tentar abrir um save já existente depois de uma atualização, ignorar os que não tem
    
-
-
+<h4>(05/2023) 1.6.3 - Novas Features (Fase de testes):</h4>
+   <p> - Melhoradas as mensagens de erro, para entender melhor e dar o correto tratamento
+   <p> - Devido ao novo modelo de TBT foi alterada a interface, sendo retiradas informações desnecessárias. 
+   <p> - foi aumentado o tempo entre as impressões de 5 para 8 seg, devido a algumas máquinas não terem tanta potência.
+   <p> - Retiradas as marcações dos checklists por solicitação de HSE
 
