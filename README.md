@@ -66,5 +66,5 @@
    <p> - Devido ao novo modelo de TBT foi alterada a interface, sendo retiradas informações desnecessárias. 
    <p> - foi aumentado o tempo entre as impressões de 5 para 8 seg, devido a algumas máquinas não terem tanta potência.
    <p> - Retiradas as marcações dos checklists por solicitação de HS
-   <p> - ADICIONADA a funcionalidade de selecionar uma planilha com NOME, CARGO e INFOR para que ela seja integrada ao sistema
+   <p> - ADICIONADA a funcionalidade de selecionar uma planilha com NOME, CARGO e INFOR na tela de config.
 
