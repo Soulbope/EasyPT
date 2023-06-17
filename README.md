@@ -70,5 +70,5 @@
 
 <h4>(06/2023) 1.6.4 - Otimização:</h4>
    <p> - Limpeza superficial do código (eliminação de comandos inutilizados)
-   <p> - Limpeza de bibliotecas não utilizadas, evitando utilização de bibliotecas defeituosas e reduzindo o tamanho do build. 
+   <p> - Limpeza de bibliotecas não utilizadas, evitando utilização de bibliotecas defeituosas. 
 
